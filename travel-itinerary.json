@@ -1,50 +1,73 @@
-
-{ "tripName": "Summer U.K Travels",
-  "traveler": {
-    "name": "Thao Nguyen",
-    "contact": {
-      "email": "Nguyen.TT@gmail.com",
-      "phone": "1-215-821-1989"
-    }
-  },
-  "destinations": [
-    {
-      "location": "London",
-      "arrivalDate": "2026-07-10",
-      "departureDate": "2026-07-11",
-      "activities": [
-        {
-          "title": "Visit Buckingham Palace",
-          "time": "11:30 AM"
-        },
-        {
-          "title": "Afternoon Tea",
-          "time": "3:30 PM"
-        },
-         {
-          "title": "Shopping at Covent Garden",
-          "time": "5:30 PM"
-        }
-      ]
-    },
-    {
-      "location": "Edinburgh",
-      "arrivalDate": "2026-07-11",
-      "departureDate": "2026-07-12",
-      "activities": [
-        {
-          "title": "Visit National Museum of Scotland",
-          "time": "10:00 AM"
-        },
-        {
-          "title": "Shopping on George Street",
-          "time": "2:00 PM"
-        },
-        {
-          "title": "Dinner at Makars Gourmet Mash Bar",
-          "time": "7:00 PM"
-        }
-      ]
-    }
-  ]
+{
+  "tripName": "Summer U.K Travels",
+  "traveler": {
+    "name": "Thao Nguyen",
+    "contact": {
+      "email": "Nguyen.TT@gmail.com",
+      "phone": "1-215-821-1989"
+    }
+  },
+  "destinations": [
+    {
+      "location": "London",
+      "arrivalDate": "2026-07-10",
+      "departureDate": "2026-07-11",
+      "activities": [
+        {
+          "title": "Visit Buckingham Palace",
+          "time": "11:30 AM"
+        },
+        {
+          "title": "Afternoon Tea",
+          "time": "3:30 PM"
+        },
+        {
+          "title": "Shopping at Covent Garden",
+          "time": "5:30 PM"
+        }
+      ]
+    },
+    {
+      "location": "Edinburgh",
+      "arrivalDate": "2026-07-11",
+      "departureDate": "2026-07-12",
+      "activities": [
+        {
+          "title": "Visit National Museum of Scotland",
+          "time": "10:00 AM"
+        },
+        {
+          "title": "Shopping on George Street",
+          "time": "2:00 PM"
+        },
+        {
+          "title": "Dinner at Makars Gourmet Mash Bar",
+          "time": "7:00 PM"
+        }
+      ]
+    },
+    {
+      "location": "Miami",
+      "arrivalDate": "2026-07-13",
+      "departureDate": "2026-07-15",
+      "activities": [
+        {
+          "title": "Relax on South Beach",
+          "time": "11:00 AM"
+        },
+        {
+          "title": "Jet skiing",
+          "time": "2:00 PM"
+        },
+        {
+          "title": "Dinner by the ocean",
+          "time": "7:00 PM"
+        }
+      ],
+      "transportation": {
+        "mode": "Flight",
+        "cost": 250
+      }
+    }
+  ]
 }
